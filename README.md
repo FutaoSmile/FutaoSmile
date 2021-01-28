@@ -6,6 +6,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FutaoSmile)](https://github.com/FutaoSmile)
 
 
+* gitee: [https://gitee.com/FutaoSmile](https://gitee.com/FutaoSmile)
+* 简书: [https://www.jianshu.com/u/9e2e579df7dd](https://www.jianshu.com/u/9e2e579df7dd)
+* 微信公众号: 喜欢天文
+
+
 <!--
 **FutaoSmile/FutaoSmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
