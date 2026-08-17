@@ -11,6 +11,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/FutaoSmile?style=for-the-badge&logo=github&label=FOLLOWERS&color=8A2BE2)](https://github.com/FutaoSmile)
 [![Profile views](https://komarev.com/ghpvc/?username=FutaoSmile&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2)](https://github.com/FutaoSmile)
 [![GitHub stars](https://img.shields.io/github/stars/FutaoSmile?style=for-the-badge&logo=github&label=STARS&color=8A2BE2)](https://github.com/FutaoSmile)
+[![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=REPOS&color=8A2BE2&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFutaoSmile)](https://github.com/FutaoSmile)
 
 </div>
 
@@ -19,14 +20,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FutaoSmile&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FutaoSmile&layout=compact&theme=radical&hide_border=true" width="47%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FutaoSmile&theme=radical" width="100%" alt="Profile Details" />
 </p>
 
-## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FutaoSmile&theme=radical" width="45%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FutaoSmile&theme=radical" width="45%" alt="Most Commit Language" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FutaoSmile&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=FutaoSmile&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" width="60%" alt="GitHub Streak" />
 </p>
 
 ## 📈 Contribution Graph
@@ -47,12 +50,11 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/FutaoSmile/chatgpt-proxy-launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FutaoSmile&repo=chatgpt-proxy-launcher&theme=radical&hide_border=true" width="47%" alt="chatgpt-proxy-launcher" /></a>
-  <a href="https://github.com/FutaoSmile/ChargeWatt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FutaoSmile&repo=ChargeWatt&theme=radical&hide_border=true" width="47%" alt="ChargeWatt" /></a>
-  <a href="https://github.com/FutaoSmile/claude-pulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FutaoSmile&repo=claude-pulse&theme=radical&hide_border=true" width="47%" alt="claude-pulse" /></a>
-  <a href="https://github.com/FutaoSmile/ResponseRewriter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FutaoSmile&repo=ResponseRewriter&theme=radical&hide_border=true" width="47%" alt="ResponseRewriter" /></a>
-</p>
+- **🖥️ [chatgpt-proxy-launcher](https://github.com/FutaoSmile/chatgpt-proxy-launcher)** — macOS launcher that fixes ChatGPT desktop "Reconnecting x/5 / request timed out" — built end-to-end by DSH ![Stars](https://img.shields.io/github/stars/FutaoSmile/chatgpt-proxy-launcher?color=8A2BE2)
+- **⚡ [ChargeWatt](https://github.com/FutaoSmile/ChargeWatt)** — native macOS menu bar utility for battery & CPU throttling telemetry ![Stars](https://img.shields.io/github/stars/FutaoSmile/ChargeWatt?color=8A2BE2)
+- **📡 [claude-pulse](https://github.com/FutaoSmile/claude-pulse)** — floating macOS status panel monitoring Claude Code sessions ![Stars](https://img.shields.io/github/stars/FutaoSmile/claude-pulse?color=8A2BE2)
+- **🛠️ [ResponseRewriter](https://github.com/FutaoSmile/ResponseRewriter)** — Chrome extension that intercepts & rewrites API responses ![Stars](https://img.shields.io/github/stars/FutaoSmile/ResponseRewriter?color=8A2BE2)
+- **📖 [posy-pip-picture-book](https://github.com/FutaoSmile/posy-pip-picture-book)** — interactive children's picture book, pure front-end, zero dependencies ![Stars](https://img.shields.io/github/stars/FutaoSmile/posy-pip-picture-book?color=8A2BE2)
 
 ## ✨ About Me
 
