@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FutaoSmile&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" width="60%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=FutaoSmile&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
 </p>
 
 ## 📈 Contribution Graph
