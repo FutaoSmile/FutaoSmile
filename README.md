@@ -56,17 +56,51 @@ That's the direction I'm exploring every day.
 
 ### 🧠 AI Coding & Agents
 
-`Claude Code` · `Codex` · `QwenPaw` · `DSH` · `Pi` · `ChatGPT`
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/QwenPaw-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="QwenPaw" />
+  <img src="https://img.shields.io/badge/DSH-AI_Coding-4B5563?style=for-the-badge" alt="DSH" />
+  <img src="https://img.shields.io/badge/Pi-Coding_Agent-111827?style=for-the-badge" alt="Pi" />
+</p>
 
 ### 🤖 LLM / Agent Engineering
 
-`Dify` · `LangChain4j` · `RAG` · `Agentic RAG` · `ReAct` · `MCP` · `Function Calling` · `Tool Calling` · `Prompt Engineering` · `Workflow Orchestration`
+<p>
+  <img src="https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge&logo=dify&logoColor=white" alt="Dify" />
+  <img src="https://img.shields.io/badge/LangChain4j-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain4j" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6D28D9?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic_RAG-7C3AED?style=for-the-badge" alt="Agentic RAG" />
+  <img src="https://img.shields.io/badge/ReAct-Agent_Pattern-8B5CF6?style=for-the-badge" alt="ReAct" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-111827?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Function_Calling-Tool_Use-374151?style=for-the-badge" alt="Function Calling" />
+</p>
+
+`Tool Calling` · `Prompt Engineering` · `Workflow Orchestration`
 
 ### 📚 AI Infrastructure
 
-`Milvus` · `Elasticsearch / OpenSearch` · `Embedding` · `Reranking` · `DeepSeek` · `Qwen` · `OpenAI-compatible APIs` · `SSE / Streaming`
+<p>
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/Embedding-Vector_Search-0F766E?style=for-the-badge" alt="Embedding" />
+  <img src="https://img.shields.io/badge/Reranking-Retrieval-0D9488?style=for-the-badge" alt="Reranking" />
+</p>
+
+`OpenAI-compatible APIs` · `SSE / Streaming`
 
 ### ⚙️ Backend & Infrastructure
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,docker,nginx,linux,git,github,idea&theme=dark&perline=11">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,docker,nginx,linux,git,github,idea&theme=light&perline=11" alt="Backend & Infrastructure" />
+  </picture>
+</p>
 
 `Java` · `Spring Boot` · `WebFlux` · `Dubbo` · `MyBatis-Plus` · `MySQL` · `Oracle` · `Redis` · `Docker` · `Nginx` · `Linux`
 
