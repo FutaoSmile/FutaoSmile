@@ -56,46 +56,46 @@ That's the direction I'm exploring every day.
 
 ### 🧠 AI Coding & Agents
 
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/QwenPaw-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="QwenPaw" />
-  <img src="https://img.shields.io/badge/DSH-AI_Coding-4B5563?style=for-the-badge" alt="DSH" />
-  <img src="https://img.shields.io/badge/Pi-Coding_Agent-111827?style=for-the-badge" alt="Pi" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-ffffff?style=flat-square&logo=anthropic&logoColor=111111" height="28" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-ffffff?style=flat-square&logo=openai&logoColor=111111" height="28" alt="Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT-ffffff?style=flat-square&logo=openai&logoColor=10A37F" height="28" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/QwenPaw-ffffff?style=flat-square&logo=alibabacloud&logoColor=615CED" height="28" alt="QwenPaw" />
+  <img src="https://img.shields.io/badge/DSH-ffffff?style=flat-square&logoColor=111827" height="28" alt="DSH" />
+  <img src="https://img.shields.io/badge/Pi-ffffff?style=flat-square&logoColor=111827" height="28" alt="Pi" />
 </p>
 
 ### 🤖 LLM / Agent Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge&logo=dify&logoColor=white" alt="Dify" />
-  <img src="https://img.shields.io/badge/LangChain4j-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain4j" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6D28D9?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Agentic_RAG-7C3AED?style=for-the-badge" alt="Agentic RAG" />
-  <img src="https://img.shields.io/badge/ReAct-Agent_Pattern-8B5CF6?style=for-the-badge" alt="ReAct" />
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-111827?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/Function_Calling-Tool_Use-374151?style=for-the-badge" alt="Function Calling" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Dify-ffffff?style=flat-square&logo=dify&logoColor=1C64F2" height="28" alt="Dify" />
+  <img src="https://img.shields.io/badge/LangChain4j-ffffff?style=flat-square&logo=langchain&logoColor=111111" height="28" alt="LangChain4j" />
+  <img src="https://img.shields.io/badge/RAG-ffffff?style=flat-square&logo=databricks&logoColor=6D28D9" height="28" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic_RAG-ffffff?style=flat-square&logo=probot&logoColor=7C3AED" height="28" alt="Agentic RAG" />
+  <img src="https://img.shields.io/badge/ReAct-ffffff?style=flat-square&logo=react&logoColor=2563EB" height="28" alt="ReAct" />
+  <img src="https://img.shields.io/badge/MCP-ffffff?style=flat-square&logo=protocolsdotio&logoColor=0F766E" height="28" alt="MCP" />
+  <img src="https://img.shields.io/badge/Function_Calling-ffffff?style=flat-square&logo=codeforces&logoColor=374151" height="28" alt="Function Calling" />
 </p>
 
-`Tool Calling` · `Prompt Engineering` · `Workflow Orchestration`
+`Tool Calling` · `Prompt Engineering` · `Workflow Orchestration` · `Memory` · `Planning` · `Multi-step Reasoning`
 
 ### 📚 AI Infrastructure
 
-<p>
-  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
-  <img src="https://img.shields.io/badge/Embedding-Vector_Search-0F766E?style=for-the-badge" alt="Embedding" />
-  <img src="https://img.shields.io/badge/Reranking-Retrieval-0D9488?style=for-the-badge" alt="Reranking" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Milvus-ffffff?style=flat-square&logo=milvus&logoColor=00A1EA" height="28" alt="Milvus" />
+  <img src="https://img.shields.io/badge/Elasticsearch-ffffff?style=flat-square&logo=elasticsearch&logoColor=005571" height="28" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/OpenSearch-ffffff?style=flat-square&logo=opensearch&logoColor=005EB8" height="28" alt="OpenSearch" />
+  <img src="https://img.shields.io/badge/DeepSeek-ffffff?style=flat-square&logoColor=4D6BFE" height="28" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Qwen-ffffff?style=flat-square&logo=alibabacloud&logoColor=615CED" height="28" alt="Qwen" />
+  <img src="https://img.shields.io/badge/Embedding-ffffff?style=flat-square&logo=buffer&logoColor=10B981" height="28" alt="Embedding" />
+  <img src="https://img.shields.io/badge/Reranking-ffffff?style=flat-square&logo=googleanalytics&logoColor=4F46E5" height="28" alt="Reranking" />
 </p>
 
-`OpenAI-compatible APIs` · `SSE / Streaming`
+`Embedding Models` · `Reranking Models` · `Vector Search` · `Hybrid Search` · `OpenAI-compatible APIs` · `SSE / Streaming`
 
 ### ⚙️ Backend & Infrastructure
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,docker,nginx,linux,git,github,idea&theme=dark&perline=11">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,docker,nginx,linux,git,github,idea&theme=light&perline=11" alt="Backend & Infrastructure" />
