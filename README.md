@@ -52,24 +52,23 @@ That's the direction I'm exploring every day.
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,docker,nginx,linux,git,github,idea,js,ts,html,css&theme=dark&perline=10">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,docker,nginx,linux,git,github,idea,js,ts,html,css&theme=light&perline=10" alt="Tech Stack" />
-  </picture>
-</p>
+> **AI-first workflow, engineering-driven delivery.**
 
-### AI / LLM
+### 🧠 AI Coding & Agents
 
-`Dify` · `RAG` · `Agentic RAG` · `ReAct` · `MCP` · `Function Calling` · `LangChain4j` · `Milvus` · `Reranking` · `OpenAI-compatible APIs`
+`Claude Code` · `Codex` · `QwenPaw` · `DSH` · `Pi` · `ChatGPT`
 
-### Backend / Infrastructure
+### 🤖 LLM / Agent Engineering
 
-`Java` · `Spring Boot` · `WebFlux` · `Dubbo` · `MyBatis-Plus` · `MySQL` · `Oracle` · `Redis` · `Elasticsearch / OpenSearch` · `Docker` · `Nginx` · `Linux`
+`Dify` · `LangChain4j` · `RAG` · `Agentic RAG` · `ReAct` · `MCP` · `Function Calling` · `Tool Calling` · `Prompt Engineering` · `Workflow Orchestration`
 
-### AI Coding Workflow
+### 📚 AI Infrastructure
 
-`Claude Code` · `Codex` · `QwenPaw` · `DSH` · `Pi` · `ChatGPT` · `DeepSeek` · `Qwen`
+`Milvus` · `Elasticsearch / OpenSearch` · `Embedding` · `Reranking` · `DeepSeek` · `Qwen` · `OpenAI-compatible APIs` · `SSE / Streaming`
+
+### ⚙️ Backend & Infrastructure
+
+`Java` · `Spring Boot` · `WebFlux` · `Dubbo` · `MyBatis-Plus` · `MySQL` · `Oracle` · `Redis` · `Docker` · `Nginx` · `Linux`
 
 ---
 
