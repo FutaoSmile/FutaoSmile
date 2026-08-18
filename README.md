@@ -20,32 +20,53 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FutaoSmile&theme=radical" width="100%" alt="Profile Details" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FutaoSmile&theme=radical">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FutaoSmile&theme=default" width="100%" alt="Profile Details" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FutaoSmile&theme=radical" width="45%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FutaoSmile&theme=radical" width="45%" alt="Most Commit Language" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FutaoSmile&theme=radical">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FutaoSmile&theme=default" width="45%" alt="Repos per Language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FutaoSmile&theme=radical">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FutaoSmile&theme=default" width="45%" alt="Most Commit Language" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FutaoSmile&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FutaoSmile&theme=radical&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=FutaoSmile&theme=github-light&hide_border=true" width="60%" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FutaoSmile&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FutaoSmile&theme=react-dark&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FutaoSmile&theme=github-light&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</picture>
 
 ## 🗓️ 3D Contribution
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="72%" alt="3D Contribution" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="profile-3d-contrib/profile-green.svg" width="72%" alt="3D Contribution" />
+  </picture>
 </p>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,swift,js,ts,html,css,mongodb,postman,selenium,git,github,idea,vscode&theme=dark&perline=10" alt="Tech Stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,swift,js,ts,html,css,mongodb,postman,selenium,git,github,idea,vscode&theme=dark&perline=10">
+    <img src="https://skillicons.dev/icons?i=java,spring,swift,js,ts,html,css,mongodb,postman,selenium,git,github,idea,vscode&theme=light&perline=10" alt="Tech Stack" />
+  </picture>
 </p>
 
 ## 🚀 Featured Projects
