@@ -26,13 +26,13 @@ I care less about AI demos and more about one question:
 
 My current focus includes:
 
+- 🧠 **AI Coding** — Claude Code, Codex, QwenPaw, ChatGPT and coding agents as part of my daily engineering workflow
 - 🤖 **AI Agents** — ReAct, tool calling, MCP, multi-step task execution and agent orchestration
 - 📚 **RAG & Knowledge Systems** — retrieval, reranking, vector databases, enterprise knowledge access and permission-aware retrieval
 - 🧩 **Dify / LLM Application Platforms** — workflow design, model integration, production deployment and platform engineering
 - ☕ **Java Backend Engineering** — Spring Boot, WebFlux, Dubbo, MyBatis, distributed systems and service integration
 - 🔎 **Search & Data Infrastructure** — Elasticsearch / OpenSearch, Milvus, MySQL, Oracle and Redis
 - 🐳 **Infrastructure & Delivery** — Docker, Nginx, Linux, gateways, SSE / streaming and production troubleshooting
-- 🧠 **AI Coding** — Claude Code, Codex, ChatGPT and other coding agents as part of my daily engineering workflow
 
 ---
 
@@ -69,7 +69,7 @@ That's the direction I'm exploring every day.
 
 ### AI Coding Workflow
 
-`Claude Code` · `Codex` · `ChatGPT` · `DeepSeek` · `Qwen`
+`Claude Code` · `Codex` · `QwenPaw` · `ChatGPT` · `DeepSeek` · `Qwen`
 
 ---
 
