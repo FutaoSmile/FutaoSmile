@@ -171,7 +171,7 @@ That's the direction I'm exploring every day.
 
 <div align="center">
 
-### Keep building. Keep learning. Make AI useful.
+### Keep learning. Keep building. Make life better.
 
 [![GitHub](https://img.shields.io/badge/GitHub-FutaoSmile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FutaoSmile)
 
